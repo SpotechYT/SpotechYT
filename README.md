@@ -9,4 +9,4 @@ My [Youtube channel](https://www.youtube.com/channel/UChdUd7-Si9OuBiD1_8KFcnQ) h
   * ![Python](https://img.shields.io/badge/%E2%80%8E-Python-yellow?logo=python&logoColor=white)
   * ![C++](https://img.shields.io/badge/%E2%80%8E-C%2B%2B-blue?logo=C%2B%2B&logoColor=white)
   * ![C#](https://img.shields.io/badge/%E2%80%8E-C%23-green?logo=C&logoColor=white)
-  * ![Java](https://img.shields.io/badge/%E2%80%8E-Java-red?logo=oracle&logocolor=white)
+  * ![Java](https://img.shields.io/badge/%E2%80%8E-Java-red?logo=iconjar&logoColor=white)
