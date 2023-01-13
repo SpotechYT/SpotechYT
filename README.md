@@ -3,6 +3,8 @@
 
 I am a teen developer and engineer looking to share my work with the world!
 
+view my portfolio at [spotech.dev](spotech.dev)
+
 My [Youtube channel](https://www.youtube.com/channel/UChdUd7-Si9OuBiD1_8KFcnQ) has more hardware projects
 
 ### My Programing Languages:
