@@ -3,7 +3,7 @@
 
 I am a teen developer and engineer looking to share my work with the world!
 
-view my portfolio at [spotech.dev](spotech.dev)
+View my portfolio at [spotech.dev](spotech.dev)
 
 My [Youtube channel](https://www.youtube.com/channel/UChdUd7-Si9OuBiD1_8KFcnQ) has more hardware projects
 
@@ -12,3 +12,4 @@ My [Youtube channel](https://www.youtube.com/channel/UChdUd7-Si9OuBiD1_8KFcnQ) h
   * ![C++](https://img.shields.io/badge/%E2%80%8E-C%2B%2B-blue?logo=C%2B%2B&logoColor=white)
   * ![C#](https://img.shields.io/badge/%E2%80%8E-C%23-green?logo=C&logoColor=white)
   * ![Java](https://img.shields.io/badge/%E2%80%8E-Java-red?logo=iconjar&logoColor=white)
+  * ![HTML](https://img.shields.io/badge/%E2%80%8E-HTML-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/%E2%80%8E-CSS-%231572B6?logo=css3&logoColor=white)
