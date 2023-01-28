@@ -13,3 +13,5 @@ My [Youtube channel](https://www.youtube.com/channel/UChdUd7-Si9OuBiD1_8KFcnQ) h
   * ![C#](https://img.shields.io/badge/%E2%80%8E-C%23-green?logo=C&logoColor=white)
   * ![Java](https://img.shields.io/badge/%E2%80%8E-Java-red?logo=iconjar&logoColor=white)
   * ![HTML](https://img.shields.io/badge/%E2%80%8E-HTML-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/%E2%80%8E-CSS-%231572B6?logo=css3&logoColor=white)
+
+![](https://raw.githubusercontent.com/SpotechYT/github-stats/master/generated/languages.svg#gh-dark-mode-only)
