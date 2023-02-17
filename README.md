@@ -15,3 +15,4 @@ My [Youtube channel](https://www.youtube.com/channel/UChdUd7-Si9OuBiD1_8KFcnQ) h
   * ![HTML](https://img.shields.io/badge/%E2%80%8E-HTML-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/%E2%80%8E-CSS-%231572B6?logo=css3&logoColor=white)
 
 ![](https://raw.githubusercontent.com/SpotechYT/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=spotechyt)
