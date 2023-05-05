@@ -3,7 +3,7 @@
 
 I am a teen developer and engineer looking to share my work with the world!
 
-View my portfolio at [spotech.dev](spotech.dev)
+View my portfolio at [spotech.dev](https://spotech.dev)
 
 My [Youtube channel](https://www.youtube.com/channel/UChdUd7-Si9OuBiD1_8KFcnQ) has more hardware projects
 
